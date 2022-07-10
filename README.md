@@ -4,14 +4,14 @@
 Calender program in C language with CRUD using Note
 
 
-## Screenshots
+### Screenshots
 <p float="left">
 <img src="https://user-images.githubusercontent.com/71552760/178142981-11e49816-73ba-4be6-99ca-311853b8a19a.png" height="400"/>
 <img src="https://user-images.githubusercontent.com/71552760/178142988-12eebd3f-6aee-4106-9074-4463275ae9b6.png" height="400"/>
 <img src="https://user-images.githubusercontent.com/71552760/178142993-50a29f74-63b5-405d-8088-961348954cc4.png" height="400"/>
 </p>
 
-## Clone Project
+### Clone Project
 
 
 ```bash
@@ -24,11 +24,11 @@ Calender program in C language with CRUD using Note
 
 Run in IDE that supports C programming
 
-## Acknowledgements
+### Acknowledgements
  - [Readme Generator](https://readme.so/id)
 
 
 
-## 🔗 Links
+### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezizul/)
 
