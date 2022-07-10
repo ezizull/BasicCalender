@@ -6,9 +6,9 @@ Calender program in C language with CRUD using Note
 
 ## Screenshots
 <p float="left">
-<img src="https://user-images.githubusercontent.com/71552760/178142981-11e49816-73ba-4be6-99ca-311853b8a19a.png" height="420"/>
-<img src="https://user-images.githubusercontent.com/71552760/178142988-12eebd3f-6aee-4106-9074-4463275ae9b6.png" height="420"/>
-<img src="https://user-images.githubusercontent.com/71552760/178142993-50a29f74-63b5-405d-8088-961348954cc4.png" height="420"/>
+<img src="https://user-images.githubusercontent.com/71552760/178142981-11e49816-73ba-4be6-99ca-311853b8a19a.png" height="380"/>
+<img src="https://user-images.githubusercontent.com/71552760/178142988-12eebd3f-6aee-4106-9074-4463275ae9b6.png" height="380"/>
+<img src="https://user-images.githubusercontent.com/71552760/178142993-50a29f74-63b5-405d-8088-961348954cc4.png" height="380"/>
 </p>
 
 ## Clone Project
